@@ -27,6 +27,8 @@ I have crawled from the website. However, unlike tweet crawler we do not exclude
 videos with redundant titles(a lot of videos are named the same way but the content are not)
 We also have all the information of video thumbnails.
 
+In term of measurement, we value duration, title, video views, publishers, description, and
+thumbnails info as important values for web-crawler. 
 ![](img/youtube.png)
 
 Taking in these sorts of information, we could use the data for further analysis or
