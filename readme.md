@@ -12,14 +12,14 @@
 
 ![](img/oripic.png)
 
-##Motivation for the Project
+## Motivation for the Project
 
 The purpose of this project is to help anyone can easily collect information From
 the youtube channel. This web-crawler should be available for any sort of youtube
 search. If you want to change the subject from "final fantasy"(my key words) to
 others, just simply change the url address to your targeting keywords.
 
-###Focusing elements
+### Focusing elements
 ![](img/youtubecontent.png)
 
 The code help us to extract information from several sections. All the information,
